@@ -1,0 +1,246 @@
+body{
+     margin: 0;
+     color:  #333333;
+     font-family: 'Ubuntu', sans-serif;
+
+}
+/* .....section-one start.......................... */
+.section-one{
+     display: flex;
+     margin-bottom: 100px;
+}
+.fist-div{
+   width: 50%;
+   padding-left: 100px;
+}
+.fist-div img{
+     width: 75%;
+     margin-top: 80px;
+}
+.about-me{
+     font-family: 'Ubuntu', sans-serif;
+     font-weight: 900;
+     font-size: 40px;
+     margin-top: 100px;
+     padding-left: 10px;
+     border-left: 4px solid 	#00FA9A;
+    
+     
+}
+.about-me span{
+     color: #20B2AA;
+}
+#button {
+     text-decoration: none;
+     padding: 9px 40px;
+     background-color: 	#00FA9A;
+     color: whitesmoke;
+     border-radius: 20px;
+     font-weight: 600;
+     
+}
+/* .............section-one end....................... */
+/* .............section-second start....................... */
+.section-two{
+
+     margin-bottom: 100px;
+
+     
+}
+
+.section-two h1{
+     text-align: center;
+     font-size: 40px;
+}
+#mission-year{
+     color: #20B2AA;
+}
+.mission-all-div{
+     display: flex;
+     margin:  auto 10px;
+
+
+}
+.mission-all-div h3{
+     text-align: center;
+}
+.missin-div{
+     width: 300px;
+     height: 300px;
+     background-color: #FFF4D6;
+     text-align: justify;
+     padding: 30px;
+     border-radius: 10px;
+     margin: 10px;
+     
+}
+.missin-div img{
+     width: 100px;
+     height: 100px;
+     margin-left: 100px;
+    
+}
+#mission-one{
+     margin-left: 60px;
+}
+#mission-two{
+     
+     
+     background-color: #FFEEEE;
+}
+#mission-three{
+     background-color: #EDF5F6;
+}
+
+/* .............section-second end....................... */
+/* .............section-three start.............................. */
+.section-three{
+     display: flex;
+     margin-bottom: 100px;
+}
+.limit-div{
+     font-family: 'Ubuntu', sans-serif;
+}
+.limit-div img{
+     margin-left: 60px;
+
+     
+}
+#limit-one{
+     width: 40%;
+     padding-bottom: 50px;
+}
+.section-three #limit-one{
+     background-image: url(img/shapes/shape-1.png);
+     background-repeat: no-repeat;
+     background-size:200px;
+     background-position: left center;
+}
+#limit-one img{
+     width: 75%;
+}
+#limit-two{
+     width: 60%;
+     padding: 20px;
+     line-height: 35px;
+     text-align: justify;
+}
+#limit-two h1{
+     font-size: 40px;
+}
+/* .............section-three end.............................. */
+/* .............section-four start.................................... */
+.section-four{
+     display: flex;
+     margin-bottom: 100px;
+}
+.section-four #limit-two{
+     margin-left: 50px;
+}
+.section-four #limit-one{
+     background-image: url(img/shapes/shape-1.png);
+     background-repeat: no-repeat;
+     background-size:200px;
+     background-position: right top 200px;
+}
+/* .............section-four end.................................... */
+/* ..............section-five start............................................. */
+.section-five{
+     font-family: 'Ubuntu', sans-serif;
+     margin-bottom: 100px;
+}
+.section-five h1{
+     font-size: 40px;
+     text-align: center;
+}
+.us{
+     color: #20B2AA;
+}
+.contuct{
+     width: 100%;
+     display: flex;
+}
+h2{
+     text-align: center;
+}
+.contuct-div{
+     width: 300px;
+     height: 300px;
+     margin: 10px;
+
+}
+.contuct-div img{
+     width: 80%;
+}
+#contuct-one{
+     background-color: #FFF4D6;
+     padding:30px;
+     text-align: justify;
+     margin-left: 70px;
+     background-color: #f8e9d1;
+     border-radius: 20px;
+
+}
+#contuct-one img{
+     width: 30%;
+     margin-left: 100px;
+}
+
+#contuct-two{
+
+     padding: 30px;
+     background-color: #FFEEEE;
+     border-radius: 20px;
+
+
+}
+input {
+     padding: 10px;
+     border-radius: 20px;
+     border: 1px solid gray;
+     font-weight: 600;
+
+}
+#submit{
+     width: 300px;
+     background-color:#00FA9A;
+     color: whitesmoke;
+     font-weight: 600;
+     font-size: 16px;
+}
+
+#contuct-three{
+
+     background-color: #FFF4D6;
+     padding:30px;
+     text-align: justify;
+     background-color: #e0f1f1;
+     border-radius: 20px;
+}
+#contuct-three img{
+     width: 30%;
+     margin-left: 100px;
+}
+
+
+/* ..............section-five end............................................. */
+/* ................secton-six start.................................................. */
+.section-six{
+     background-color: #0B0D17;
+     color: whitesmoke;
+     padding: 30px;
+     text-align: center;
+}
+.section-six p{
+     font-weight: 100;
+     font-family: 'Ubuntu', sans-serif;
+}
+.section-six h1{
+     font-family: 'Dancing Script', cursive;
+     font-size: 35px;
+}
+#hard-work{
+     color: #20B2AA;
+
+}
+/* ................secton-six end.................................................. */
